@@ -10,6 +10,9 @@ conda install -q ffmpeg # ffmpeg==4.2.2
 ```powershell
 python main.py
 ```
+# 简要思路
+主体架构是：baichuan2+RAG（langchain的代码）+[数字人](https://github.com/Kedreamix/Linly-Talker) + [前端vue3界面](https://ff-ovo.fun/)
+
 
 ## Acknowledge
 
