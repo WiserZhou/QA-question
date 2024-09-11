@@ -11,3 +11,6 @@ conda install -q ffmpeg # ffmpeg==4.2.2
 python main.py
 ```
 
+## Acknowledge
+
+本github仓库的作者：[yxf203](https://github.com/yxf203)
