@@ -16,4 +16,4 @@ python main.py
 
 ## Acknowledge
 
-本github仓库的作者：[yxf203](https://github.com/yxf203)
+共创：[yxf203](https://github.com/yxf203)
