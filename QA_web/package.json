@@ -1,0 +1,25 @@
+{
+  "name": "test",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "ammo.js": "^0.0.10",
+    "axios": "^1.6.8",
+    "element-china-area-data": "^6.1.0",
+    "element-plus": "^2.7.0",
+    "pinia": "^2.1.7",
+    "three": "^0.163.0",
+    "vue": "^3.4.21",
+    "vue-router": "^4.3.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.4",
+    "vite": "^5.1.6"
+  }
+}

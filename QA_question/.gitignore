@@ -1,0 +1,6 @@
+digital_humans/checkpoints/*
+digital_humans/results/*
+digital_humans/src/flagged/output/*
+digital_humans/temp/*
+__pycache__
+results/*
